@@ -53,7 +53,7 @@ export default function AuthImageMove() {
             style={{ width: "100%" }}
             data-move="20"
             className="js-mouse-move"
-            src="/assets/img/home-9/hero/bg.png"
+            src="/assets/img/home-9/hero/image-e-commerce.png"
             alt="image"
           />
         </div>
@@ -61,23 +61,7 @@ export default function AuthImageMove() {
           <img
             data-move="40"
             className="js-mouse-move"
-            src="/assets/img/home-9/hero/1.png"
-            alt="icon"
-          />
-        </div>
-        <div className="-el-3">
-          <img
-            data-move="40"
-            className="js-mouse-move"
-            src="/assets/img/home-9/hero/2.png"
-            alt="icon"
-          />
-        </div>
-        <div className="-el-4">
-          <img
-            data-move="40"
-            className="js-mouse-move"
-            src="/assets/img/home-9/hero/3.png"
+            src="/assets/img/home-9/hero/image-e-commerce2.png"
             alt="icon"
           />
         </div>
